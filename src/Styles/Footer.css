@@ -1,0 +1,16 @@
+.FooterContainer {
+    margin-top: 100px;
+}
+.btns{
+    border: 1px solid white;
+    background-color: #550673;
+    width: 60px;
+}
+
+.btns:hover{
+    border: none;
+    background-color: #2aafbd;
+}
+footer{
+    background-color: black;
+}
